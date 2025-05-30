@@ -13,9 +13,9 @@ public class Book {
         this.publisher = publisher;
         this.year = year;
         this.isAvailable = true;
-    }
+  }
 
-    // Getters
+    // Getters Id using private matters
     public int getId() {
         return id;
     }
