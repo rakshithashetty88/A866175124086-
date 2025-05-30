@@ -1,4 +1,4 @@
-//this is java
+//This is java program.
 public class Book {
     private int id;
     private String title;
@@ -68,4 +68,4 @@ public class Book {
                 id, title, author, publisher, year, isAvailable ? "Yes" : "No");
     }
 }
-
+//This ends the program
